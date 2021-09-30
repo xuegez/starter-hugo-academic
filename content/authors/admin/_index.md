@@ -1,6 +1,7 @@
 ---
-title: X Zhang
+title: X
 role: Ph.D. candidate in economics
+avatar_filename: test.png
 bio: ""
 interests: []
 social:
