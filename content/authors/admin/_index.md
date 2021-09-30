@@ -1,8 +1,7 @@
 ---
 title: X Zhang
 role: Ph.D. candidate in economics
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests: []
 social:
   - icon: envelope
